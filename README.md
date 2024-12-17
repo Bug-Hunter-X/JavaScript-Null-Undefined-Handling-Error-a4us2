@@ -1,0 +1,3 @@
+# JavaScript Null/Undefined Handling
+
+This repository demonstrates a common error in JavaScript: forgetting to handle `null` or `undefined` values.  The `bug.js` file showcases the faulty code that doesn't explicitly check for `null` inputs.  The corrected version is provided in `bugSolution.js`. This simple example highlights how overlooking null checks can lead to unexpected behavior or runtime errors.
